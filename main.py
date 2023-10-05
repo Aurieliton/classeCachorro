@@ -11,7 +11,7 @@ class Cachorro:
         print(f'Nome: {self.nome}')
         print(f'Raça: {self.raca}')
         print(f'Peso: {self.peso}')
-        return "croc, croc, croc"
+        return print("croc, croc, croc")
 
 
 cachorro1 = Cachorro('Arlequina','PitDalmata','20')
